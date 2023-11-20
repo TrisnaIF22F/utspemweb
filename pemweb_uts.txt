@@ -1,0 +1,41 @@
+Nama: Trisna Wiharja
+Kelas: IF22F
+NIM: 22416255201192
+
+UTS Pemrograman Website
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+Jawab: 
+Framework adalah alat bantu/jalan pintas yang di gunakan oleh web developer untuk membantu menyelesaikan programnya menjadi lebih cepat dan rapi 
+
+2.1. Sebutkan tema proyek yang sedang digarap
+Jawab: Pembuatan aplikasi informasi sekolah dengan sistem e-learning untuk SMK Kesehatan Ar-Raihan Cikampek
+
+2.2 Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+Jawab: 1. Dino Algifari Alamanda (22416255201010), bertugas untuk membuat backend website
+       2. Trisna Wiharja (22416255201192) bertugas untuk membuat tampilan desain front-end website dan basis data di SQL 
+       3. Atika Putri Rahmadani (22416255201021) bertugas sebagai desain uml, basis data di laporan beserta dengan laporan akhir Project
+
+2.3 Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawab: 
+A) Permasalahan 
+1. Tampilan website sekolah tersebut masih berbentuk statis
+2. Pembayaran SPP masih menggunakan sistem manual Transfer, yang dimana siswa/i harus ke bagian keuangan terlebih dahulu untuk meminta no rekening tujuan untuk pembayaran SPP
+3. Belum menerapkan sistem e-learning dalam sistem pembelajarannya 
+4. Absensi belum terintegritasi dengan database absenis (opsional)
+
+3. Hipotesa solusi 
+1. Melakukan perbaikan tampilan website dari statis menjadi dinamis
+2. Membuat sistem payment gateway untuk pembayaran SPP
+3. Membuat sistem E-Learning sederhana yang dimana di dalamnya terdapat sistem pembelajaran dan sistem absensi
+
+4. Terdapat file show.php di root proyek yang menghasilkan tabel data produk,
+Didalam nya terdapat fitur “EDIT” dan “HAPUS”. Buatkan fitur “EDIT” dan
+“HAPUS” dan unggah source code di elearning/BOC!
+Jawab: 
+
